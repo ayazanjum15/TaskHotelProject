@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskHotelProject", "TaskHotelProject\TaskHotelProject.csproj", "{7867BFDF-2373-4B89-BABA-74B0141C4A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskHotelProjectApi", "TaskHotelProjectApi\TaskHotelProjectApi.csproj", "{66EDAFDB-10D3-4B8A-97AD-F56C0F2DFF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7867BFDF-2373-4B89-BABA-74B0141C4A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7867BFDF-2373-4B89-BABA-74B0141C4A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7867BFDF-2373-4B89-BABA-74B0141C4A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7867BFDF-2373-4B89-BABA-74B0141C4A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EDAFDB-10D3-4B8A-97AD-F56C0F2DFF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EDAFDB-10D3-4B8A-97AD-F56C0F2DFF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EDAFDB-10D3-4B8A-97AD-F56C0F2DFF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EDAFDB-10D3-4B8A-97AD-F56C0F2DFF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00D603D-353D-4B0E-9AEE-DC3C8CA736D6}
+	EndGlobalSection
+EndGlobal

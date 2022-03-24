@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    bool? ischecked = ViewBag.AvailableCheck;
+}
+ <link href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css" rel="stylesheet" /> 
+
+ <style>
+     td.details-control { background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center; cursor: pointer; }
+     tr.shown td.details-control { background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center; }
+ </style>
+<div class="text-center">
+    @if (TempData["MSG"] != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    <span> @Html.Raw(TempData["MSG"]) </span>
+            @if (TempData["MSG2"] != null)
+            {
+                    <span> @Html.Raw(TempData["MSG2"]) </span>
+            }
+                </div>
+            }
+
+</div>
+<div class="d-flex my-5">
+
+    <div class="d-inline dropdown m-5"> 
+        <h5>Refundable</h5>
+        @Html.DropDownList("Refundable" , null, "---Select---", new{ @class ="btn border-secondary text-start dropdown-toggle"} )
+    </div>
+    <div class="d-inline dropdown m-5"> 
+        <h5>Rating</h5>
+        @Html.DropDownList("Rating" , null, "---Select---", new{ @class ="btn border-secondary text-start dropdown-toggle"} )
+    </div>
+    <div class="d-inline dropdown m-5"> 
+        <div>
+             <label for="cb_available">Available</label>
+            <input type="checkbox" id="cb_available" checked="@ischecked" />
+        </div>
+        
+    </div>
+
+</div>
+
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Hotel</th>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Rating</th>
+                <th>Available</th>
+                <th>Price</th>
+                <th>Currency</th>
+            </tr>
+        </thead>
+</table>
+
+
+
+
+
+
+

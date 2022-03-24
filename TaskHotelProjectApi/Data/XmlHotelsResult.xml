@@ -1,0 +1,375 @@
+﻿<HOTEL_SEARCH_RESPONSE>
+  <HOTELS>
+    <HOTEL HOTEL_ID="7161" HOTEL_NAME="Migny Opera Montmartre Hotel" LOCATION="Pigalle" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="105.7600" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>961874</ROOMID>
+          <ROOM_NAME>Twin Room (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>961875</ROOMID>
+          <ROOM_NAME>Double Room (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="7176" HOTEL_NAME="Opera Cadet Hotel" LOCATION="Cadet" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="197.3800" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>964618</ROOMID>
+          <ROOM_NAME>Double Room Superior</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="16574" HOTEL_NAME="Plaza Tour Eiffel" LOCATION="Trocadero Station" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="227.3700" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>73339</ROOMID>
+          <ROOM_NAME>Double Room Deluxe</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>73344</ROOMID>
+          <ROOM_NAME>Double Room Superior</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="19090" HOTEL_NAME="Marena Hotel" LOCATION="Cadet" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="75.3500" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>80130</ROOMID>
+          <ROOM_NAME>Double Room</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>25% rate reduction on all nights of the stay</RULE_TEXT>
+        </ROOM>
+        <ROOM>
+          <ROOMID>80131</ROOMID>
+          <ROOM_NAME>Twin Room</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>25% rate reduction on all nights of the stay</RULE_TEXT>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="21853" HOTEL_NAME="Pullman Paris Bercy Hotel" LOCATION="Cour St Emillon" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="155.0200" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>960285</ROOMID>
+          <ROOM_NAME>Double Room Deluxe Suite</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>967850</ROOMID>
+          <ROOM_NAME>Double Room Superior Special</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>967852</ROOMID>
+          <ROOM_NAME>Twin Room Superior Special</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>967854</ROOMID>
+          <ROOM_NAME>Double Room Deluxe Suite Special</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="22416" HOTEL_NAME="Residhome Courbevoie la Defense" LOCATION="La Defense" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="62.3500" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>259360</ROOMID>
+          <ROOM_NAME>Twin Room Studio (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>10% rate reduction for all nights</RULE_TEXT>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="34332" HOTEL_NAME="Kube Hotel - NON REFUNDABLE ROOM" LOCATION="La Chapelle" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="197.8900" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>822916</ROOMID>
+          <ROOM_NAME>Double Room Superior</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>5% reduction on rates</RULE_TEXT>
+        </ROOM>
+        <ROOM>
+          <ROOMID>909589</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>5% reduction on rates</RULE_TEXT>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="34333" HOTEL_NAME="1K Hotel - NON REFUNDABLE ROOM" LOCATION="Filles du Calvaire" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="279.0700" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>908621</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>5% reduction on rates</RULE_TEXT>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="35958" HOTEL_NAME="Pullman Versailles Chateau Hotel" LOCATION="RER Versailles" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="123.3600" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>967746</ROOMID>
+          <ROOM_NAME>Double Room Superior Special</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>967747</ROOMID>
+          <ROOM_NAME>Twin Room Superior Special</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="44194" HOTEL_NAME="Royal Mansart Hotel" LOCATION="Blanche" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="74.0300" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>703240</ROOMID>
+          <ROOM_NAME>Twin Room</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>703241</ROOMID>
+          <ROOM_NAME>Double Room</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="44508" HOTEL_NAME="Sejours et Affaires Paris Vitry Hotel" LOCATION="Vitry-sur-Seine" RATING="2 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="43.4300" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>720685</ROOMID>
+          <ROOM_NAME>Double Room Studio</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>720686</ROOMID>
+          <ROOM_NAME>Twin Room Studio</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>720689</ROOMID>
+          <ROOM_NAME>Double Room Studio (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>720690</ROOMID>
+          <ROOM_NAME>Twin Room Studio (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="46974" HOTEL_NAME="Royal Mansart Hotel - NON REFUNDABLE ROOM" LOCATION="Blanche" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="66.6300" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>793784</ROOMID>
+          <ROOM_NAME>Twin Room</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>793785</ROOMID>
+          <ROOM_NAME>Double Room</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49417" HOTEL_NAME="Migny Opera Montmartre Hotel - NON REFUNDABLE ROOM" LOCATION="Pigalle" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="95.1800" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>962514</ROOMID>
+          <ROOM_NAME>Twin Room (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>962515</ROOMID>
+          <ROOM_NAME>Double Room (Without Breakfast)</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49889" HOTEL_NAME="Pavillon Opera Grands Boulevards - NON REFUNDABLE ROOM" LOCATION="Grands Blvd" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="155.2700" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>823429</ROOMID>
+          <ROOM_NAME>Twin Room Superior</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>923112</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49893" HOTEL_NAME="Pavillon Nation Hotel - NON REFUNDABLE ROOM" LOCATION="Nation" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="147.1500" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>908793</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49895" HOTEL_NAME="Normandy Hotel Paris - NON REFUNDABLE ROOM" LOCATION="Palais Royal Musee du Louvre" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="199.9200" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>823591</ROOMID>
+          <ROOM_NAME>Double Room Superior</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>823595</ROOMID>
+          <ROOM_NAME>Twin Room Classic</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>908669</ROOMID>
+          <ROOM_NAME>Twin Room Superior</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49898" HOTEL_NAME="Pavillon Porte de Versailles Hotel - NON REFUNDABLE ROOM" LOCATION="Porte de Versailles" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="115.6900" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>908481</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>908482</ROOMID>
+          <ROOM_NAME>Twin Room Classic</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49900" HOTEL_NAME="Pavillon Opera Bourse Hotel - NON REFUNDABLE ROOM" LOCATION="Grands Blvd" RATING="3 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="155.2700" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>908624</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49901" HOTEL_NAME="Villa Pantheon Hotel NON REFUNDABLE ROOM" LOCATION="Saint Michel" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="201.9500" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>908876</ROOMID>
+          <ROOM_NAME>Twin Room Classic</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>908877</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49909" HOTEL_NAME="Villa Montparnasse Hotel - NON REFUNDABLE ROOM" LOCATION="Denfert-Rochereau" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="179.1500" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>823808</ROOMID>
+          <ROOM_NAME>Double Room Superior</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>823819</ROOMID>
+          <ROOM_NAME>Twin Room Superior</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>908687</ROOMID>
+          <ROOM_NAME>Twin Room Classic</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>908688</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49928" HOTEL_NAME="Villa Lutece Port Royal Hotel - NON REFUNDABLE ROOM" LOCATION="Gobelins" RATING="4 * +" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="178.6100" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>909136</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+          <RULE_TEXT>5% reduction on rates</RULE_TEXT>
+        </ROOM>
+        <ROOM>
+          <ROOMID>909137</ROOMID>
+          <ROOM_NAME>Twin Room Classic</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+    <HOTEL HOTEL_ID="49932" HOTEL_NAME="Villa Luxembourg Hotel - NON REFUNDABLE ROOM" LOCATION="Vavin" RATING="4 *" AVAILABLE="Yes" ISRECOMMENDEDPRODUCT="0" STARTING_PRICE="181.6500" CURRENCY="EUR">
+      <ROOMS>
+        <ROOM>
+          <ROOMID>908570</ROOMID>
+          <ROOM_NAME>Twin Room Classic</ROOM_NAME>
+          <OCCUPANCY>2</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+        <ROOM>
+          <ROOMID>908571</ROOMID>
+          <ROOM_NAME>Double Room Classic</ROOM_NAME>
+          <OCCUPANCY>3</OCCUPANCY>
+          <ROOM_STATUS>AVAILABLE</ROOM_STATUS>
+        </ROOM>
+      </ROOMS>
+    </HOTEL>
+  </HOTELS>
+</HOTEL_SEARCH_RESPONSE>

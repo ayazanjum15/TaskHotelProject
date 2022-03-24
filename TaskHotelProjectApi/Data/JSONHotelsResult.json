@@ -1,0 +1,90 @@
+{
+  "avaliabilitiesResponse": {
+    "Hotels": {
+      "Hotel": [
+        {
+          "HotelCode": "0017855",
+          "HotelsName": "Hilton Jeddah",
+          "Location": "Jeddah, Saudi Arabia",
+          "Rating": "4",
+          "LowestPrice": "35",
+          "Currency": "EUR",
+          "IsReady": "true",
+          "AvailableRooms": {
+            "AvailableRoom": [
+              {
+                "RoomCode": "11245",
+                "RoomName": "Standard",
+                "Occupancy": "1",
+                "Status": "true"
+              },
+              {
+                "RoomCode": "12000",
+                "RoomName": "Double",
+                "Occupancy": "2",
+                "Status": "true"
+              },
+              {
+                "RoomCode": "99685",
+                "RoomName": "Twin",
+                "Occupancy": "2",
+                "Status": "true"
+              }
+            ]
+          }
+        },
+        {
+          "HotelCode": "0018799",
+          "HotelsName": "Ramada Continental Jeddah",
+          "Location": "Jeddah, Saudi Arabia",
+          "Rating": "3",
+          "LowestPrice": "345",
+          "Currency": "USD",
+          "IsReady": "false",
+          "AvailableRooms": {
+            "AvailableRoom": [
+              {
+                "RoomCode": "00012",
+                "RoomName": "Triple Standard",
+                "Occupancy": "3",
+                "Status": "false"
+              },
+              {
+                "RoomCode": "5477",
+                "RoomName": "Triple Sea View",
+                "Occupancy": "3",
+                "Status": "false"
+              },
+              {
+                "RoomCode": "996666",
+                "RoomName": "Standard Double",
+                "Occupancy": "2",
+                "Status": "true"
+              }
+            ]
+          }
+        },
+        {
+          "HotelCode": "0010888",
+          "HotelsName": "Qasr Al Sharq",
+          "Location": "Jeddah, Saudi Arabia",
+          "Rating": "5",
+          "LowestPrice": "3500",
+          "Currency": "SAR",
+          "IsReady": "true",
+          "AvailableRooms": {
+            "AvailableRoom": [
+              {
+                "RoomCode": "102432",
+                "RoomName": "Suite",
+                "Occupancy": "4",
+                "Price": "3500",
+                "Status": "true"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
